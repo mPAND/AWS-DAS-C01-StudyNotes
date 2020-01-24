@@ -31,6 +31,9 @@ https://awsstash.com/
 
 ## Reinvent Videos
 
+[Everything You Need to Know About Big Data: From Architectural Principles to Best Practices
+]{https://www.youtube.com/watch?v=MotN5f6_xl8)
+
 https://www.youtube.com/watch?v=SrvsTaxhgUg
 
 https://www.youtube.com/watch?v=ovPheIbY7U8
@@ -38,6 +41,8 @@ https://www.youtube.com/watch?v=ovPheIbY7U8
 [Athena Deepdive] https://www.youtube.com/watch?v=tzoXRRCVmIQ
 
 [RedShift Deepdive ] https://www.youtube.com/watch?v=lj8oaSpCFTc
+
+
 
 ## AWS docs
 
