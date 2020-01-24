@@ -1,5 +1,5 @@
 # AWS-DAS-C01-StudyNotes
-Study notes to prepare for **AWS Certified Data Analytics - Specialty (DAS-C01)** Exam
+Open Guide for **AWS Certified Data Analytics - Specialty (DAS-C01)** Exam
 
 ## Introduction
 The AWS Certified Data Analytics - Specialty (DAS-C01) examination is intended for individuals who perform in a
@@ -61,3 +61,21 @@ There are two types of questions on the examination:
 2. Apply data protection and encryption techniques
 3. Apply data governance and compliance controls
 
+
+
+Legend
+------
+
+-	📒 Marks standard/official AWS pages and docs
+-	🔹 Important or often overlooked tip
+-	❗ “Serious” gotcha (used where risks or time or resource costs are significant: critical security risks, mistakes with significant financial cost, or poor architectural choices that are fundamentally difficult to correct)
+-	🔸 “Regular” gotcha, limitation, or quirk (used where consequences are things not working, breaking, or not scaling gracefully)
+-	📜 Undocumented feature (folklore)
+-	🐥 Relatively new (and perhaps immature) services or features
+-	⏱ Performance discussions
+-	⛓ Lock-in: Products or decisions that are likely to tie you to AWS in a new or significant way — that is, later moving to a non-AWS alternative would be costly in terms of engineering effort
+-	🚪 Alternative non-AWS options
+-	💸 Cost issues, discussion, and gotchas
+-	🕍 A mild warning attached to “full solution” or opinionated frameworks that may take significant time to understand and/or might not fit your needs exactly; the opposite of a point solution (the cathedral is a nod to [Raymond’s metaphor](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)\)
+-	📗📘📙 Colors indicate basics, tips, and gotchas, respectively.
+-	🚧 Areas where correction or improvement are needed (possibly with link to an issue — do help!)
