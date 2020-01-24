@@ -1,5 +1,5 @@
 # AWS-DAS-C01-StudyNotes
-Study notes to prepare for AWS Certified Data Analytics - Specialty (DAS-C01) Exam
+Study notes to prepare for **AWS Certified Data Analytics - Specialty (DAS-C01)** Exam
 
 ## Introduction
 The AWS Certified Data Analytics - Specialty (DAS-C01) examination is intended for individuals who perform in a
