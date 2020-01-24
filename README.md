@@ -32,3 +32,4 @@ There are two types of questions on the examination:
 | Domain 4: Analysis and Visualization | 18%  |
 | Domain 4: Analysis and Visualization | 18%  |
 | Domain 5: Security | 18% |
+| **Total** | **100%** |
