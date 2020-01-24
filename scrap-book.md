@@ -37,5 +37,10 @@ https://www.youtube.com/watch?v=ovPheIbY7U8
 
 [Athena Deepdive] https://www.youtube.com/watch?v=tzoXRRCVmIQ
 
-
 [RedShift Deepdive ] https://www.youtube.com/watch?v=lj8oaSpCFTc
+
+## AWS docs
+
+https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf
+
+
