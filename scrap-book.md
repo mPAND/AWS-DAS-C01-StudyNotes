@@ -33,3 +33,6 @@ https://www.youtube.com/watch?v=SrvsTaxhgUg
 https://www.youtube.com/watch?v=ovPheIbY7U8
 
 [Athena Deepdive] https://www.youtube.com/watch?v=tzoXRRCVmIQ
+
+
+[RedShift Deepdive ] https://www.youtube.com/watch?v=lj8oaSpCFTc
