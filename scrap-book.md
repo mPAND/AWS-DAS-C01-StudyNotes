@@ -24,3 +24,12 @@ https://www.aws.training/Details/eLearning?id=35364
 https://www.aws.training/Details/Curriculum?id=21332
 
 https://www.aws.training/Details/eLearning?id=40337
+
+
+## Reinvent Videos
+
+https://www.youtube.com/watch?v=SrvsTaxhgUg
+
+https://www.youtube.com/watch?v=ovPheIbY7U8
+
+[Athena Deepdive] https://www.youtube.com/watch?v=tzoXRRCVmIQ
