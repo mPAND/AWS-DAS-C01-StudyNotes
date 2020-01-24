@@ -10,3 +10,10 @@ https://www.jeffersonfrank.com/aws-blog/aws-certified-big-data-specialty-certifi
 
 https://linuxacademy.com/course/aws-certified-big-data-specialty-course/
 https://www.udemy.com/course/aws-big-data/
+
+
+https://www.aws.training/Details/eLearning?id=35364
+
+## Exam Readiness
+https://www.aws.training/Details/Curriculum?id=21332
+https://www.aws.training/Details/eLearning?id=40337
