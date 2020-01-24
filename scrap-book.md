@@ -32,7 +32,7 @@ https://awsstash.com/
 ## Reinvent Videos
 
 [Everything You Need to Know About Big Data: From Architectural Principles to Best Practices
-]{https://www.youtube.com/watch?v=MotN5f6_xl8)
+](https://www.youtube.com/watch?v=MotN5f6_xl8)
 
 https://www.youtube.com/watch?v=SrvsTaxhgUg
 
