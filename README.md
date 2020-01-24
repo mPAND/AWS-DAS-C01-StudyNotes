@@ -61,7 +61,8 @@ There are two types of questions on the examination:
 2. Apply data protection and encryption techniques
 3. Apply data governance and compliance controls
 
-
+🐱
+:cow:
 
 Legend
 ------
