@@ -64,6 +64,15 @@ There are two types of questions on the examination:
 🐱
 :cow:
 
+## Content
+
+* Big Data Analytics Architecture Patterns & Best Practices
+   * [Reinvent 2018 Video](https://www.youtube.com/watch?v=ovPheIbY7U8)
+   * [Reinvent 2019 Video](https://www.youtube.com/watch?v=SrvsTaxhgUg)
+
+
+
+
 Legend
 ------
 
