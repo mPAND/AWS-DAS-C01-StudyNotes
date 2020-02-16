@@ -79,6 +79,10 @@ There are two types of questions on the examination:
      * Big Data Pipeline
      * ELT/ETL on AWS
  
+ * Whitepapers
+   * [Big Data Analytics Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
+   * [Streaming Solutions on Kinesis](https://d0.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf)
+ 
 
 
 
