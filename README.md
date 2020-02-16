@@ -67,17 +67,17 @@ There are two types of questions on the examination:
 ## Content
 
 * Big Data Analytics Architecture Patterns & Best Practices
-* Videos
-   * [Reinvent 2018 Video](https://www.youtube.com/watch?v=ovPheIbY7U8)
-   * [AWS Public Sector Summit: Brussels 2019](https://www.youtube.com/watch?v=MotN5f6_xl8)
-* Presentation Slide
-  * [AWS Public Sector Summit: Brussels 2019](https://www.slideshare.net/AmazonWebServices/everything-you-need-to-know-about-big-data-from-architectural-principles-to-best-practices)
- * Topics
-   * Types of Big Data Anaytics
-   * Delivery Models
-   * Architectural Principles
-   * Big Data Pipeline
-   * ELT/ETL on AWS
+  * Videos
+     * [Reinvent 2018 Video](https://www.youtube.com/watch?v=ovPheIbY7U8)
+     * [AWS Public Sector Summit: Brussels 2019](https://www.youtube.com/watch?v=MotN5f6_xl8)
+  * Presentation Slide
+    * [AWS Public Sector Summit: Brussels 2019](https://www.slideshare.net/AmazonWebServices/everything-you-need-to-know-about-big-data-from-architectural-principles-to-best-practices)
+   * Topics
+     * Types of Big Data Anaytics
+     * Delivery Models
+     * Architectural Principles
+     * Big Data Pipeline
+     * ELT/ETL on AWS
  
 
 
