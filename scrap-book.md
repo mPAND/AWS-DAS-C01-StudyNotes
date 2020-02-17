@@ -43,9 +43,12 @@ https://www.youtube.com/watch?v=ovPheIbY7U8
 [RedShift Deepdive ] https://www.youtube.com/watch?v=lj8oaSpCFTc
 
 
-
 ## AWS docs
 
 https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf
 
 
+## Others
+[AWS re:Invent 2018: Effective Data Lakes: Challenges and Design Patterns (ANT316)](https://www.youtube.com/watch?v=v5lkNHib7bw)
+
+[Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
