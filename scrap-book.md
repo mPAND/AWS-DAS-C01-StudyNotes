@@ -29,6 +29,10 @@ https://www.aws.training/Details/eLearning?id=40337
 ## Site to search/filter videos
 https://awsstash.com/
 
+[AWS Reinvent 2017](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2017/2017.html)
+
+[AWS Reinvent 2018](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2018/2018.html)
+
 [AWS Reinvent 2019](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2019/2019.html)
 
 ## Reinvent Videos
