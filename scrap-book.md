@@ -29,6 +29,8 @@ https://www.aws.training/Details/eLearning?id=40337
 ## Site to search/filter videos
 https://awsstash.com/
 
+[AWS Reinvent 2019](http://aws-reinvent-audio.s3-website.us-east-2.amazonaws.com/2019/2019.html)
+
 ## Reinvent Videos
 
 [Everything You Need to Know About Big Data: From Architectural Principles to Best Practices
