@@ -16,12 +16,12 @@
 ## Topics
 
 * Amazon Kinesis Data Firehose
-** Prepare and load real-time data streams into data stores and analytics services
+  * Prepare and load real-time data streams into data stores and analytics services
 * Amazon Kinesis Data Streams
-** Collect streaming data, at scale, for real-time analytics
+  * Collect streaming data, at scale, for real-time analytics
 * Amazon Kinesis Data Analytics
-** Get actionable insights from streaming data in real-time
+  * Get actionable insights from streaming data in real-time
 * Amazon Kinesis Video Streams
-** Capture, process, and store media streams for playback, analytics, and machine learning
+  * Capture, process, and store media streams for playback, analytics, and machine learning
 
 
