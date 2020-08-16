@@ -8,5 +8,7 @@
 * [AWS re:Invent 2018: Architecting for Real-Time Insights with Amazon Kinesis (ANT310)
 ](https://www.youtube.com/watch?v=jhYIxM2KiLs)
 
+* [AWS re:Invent 2018: High Performance Data Streaming with Amazon Kinesis: Best Practices (ANT322-R1)
+](https://www.youtube.com/watch?v=jKPlGznbfZ0)
 
 
