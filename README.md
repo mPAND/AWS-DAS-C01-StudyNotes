@@ -24,12 +24,11 @@ There are two types of questions on the examination:
 * Multiple choice: Has one correct response and three incorrect responses (distractors).
 * Multiple response: Has two or more correct responses out of five or more options. 
 
-|   Domain | % of Questions  | 
+|  Domain | % of Questions  | 
 | :------------ | :------------: |
-|  Domain 1: Collections |  18% |
-|  Domain 2: Storage and Data Management |  22% |
+| Domain 1: Collections |  18% |
+| Domain 2: Storage and Data Management |  22% |
 | Domain 3: Processing | 24% |
-| Domain 4: Analysis and Visualization | 18%  |
 | Domain 4: Analysis and Visualization | 18%  |
 | Domain 5: Security | 18% |
 | **Total** | **100%** |
